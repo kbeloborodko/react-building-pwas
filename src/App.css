@@ -9,3 +9,11 @@
   color: white;
   text-align: center;
 }
+.content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.block {
+  margin: 0 0 20px;
+  text-align: center;
+}
